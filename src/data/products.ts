@@ -37,7 +37,7 @@ export const products: Product[] = [
       "Design ergonômico",
       "Iluminação RGB lateral",
     ],
-    aaffiliateLink: "https://www.amazon.com.br/dp/XXXXX",
+    affiliateLink: "https://www.amazon.com.br/dp/XXXXX",
   },
   {
     id: 3,
