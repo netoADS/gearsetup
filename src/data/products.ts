@@ -18,7 +18,7 @@ export const products: Product[] = [
       "Iluminação RGB customizável",
       "Estrutura reforçada em alumínio",
     ],
-    affiliateLink: "#",
+    affiliateLink: "https://www.amazon.com.br/dp/XXXXX",
   },
   {
     id: 2,
@@ -37,7 +37,7 @@ export const products: Product[] = [
       "Design ergonômico",
       "Iluminação RGB lateral",
     ],
-    affiliateLink: "#",
+    aaffiliateLink: "https://www.amazon.com.br/dp/XXXXX",
   },
   {
     id: 3,
@@ -56,7 +56,7 @@ export const products: Product[] = [
       "Microfone removível",
       "Conforto premium com espuma memory foam",
     ],
-    affiliateLink: "#",
+    affiliateLink: "https://www.amazon.com.br/dp/XXXXX",
   },
   {
     id: 4,
@@ -75,7 +75,7 @@ export const products: Product[] = [
       "Sincronização com música",
       "Compatível com Alexa e Google",
     ],
-    affiliateLink: "#",
+    affiliateLink: "https://www.amazon.com.br/dp/XXXXX",
   },
   {
     id: 5,
@@ -93,6 +93,6 @@ export const products: Product[] = [
       "Bateria de longa duração",
       "Iluminação sincronizada com batida",
     ],
-    affiliateLink: "#",
+    affiliateLink: "https://www.amazon.com.br/dp/XXXXX",
   },
 ];
