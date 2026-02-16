@@ -12,8 +12,8 @@ const Home = () => {
       {/* HERO */}
       <section className="text-center mb-20">
         <h1 className="text-5xl font-bold mb-4">
-          <span className="text-primary">Setup</span>
-          <span className="text-accent">Tech</span>
+          <span className="text-primary">Gear</span>
+          <span className="text-accent">Setup</span>
         </h1>
 
         <p className="text-softwhite/70 text-lg">
