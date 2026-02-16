@@ -17,7 +17,7 @@ const Product = () => {
   useEffect(() => {
     if (!product) return;
 
-    document.title = `${product.title} | SetupTech`;
+    document.title = `${product.title} | GearSetup`;
 
     const metaDescription = document.querySelector('meta[name="description"]');
     if (metaDescription) {
@@ -44,7 +44,7 @@ const Product = () => {
       description: product.description,
       brand: {
         "@type": "Brand",
-        name: "SetupTech",
+        name: "GearSetup",
       },
       aggregateRating: product.rating
         ? {

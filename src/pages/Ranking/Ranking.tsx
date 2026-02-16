@@ -18,7 +18,7 @@ const Ranking = () => {
 
   // 🔥 SEO + Structured Data ItemList
   useEffect(() => {
-    document.title = `${ranking.title} | SetupTech`;
+    document.title = `${ranking.title} | GearSetup`;
 
     const metaDescription = document.querySelector('meta[name="description"]');
     if (metaDescription) {

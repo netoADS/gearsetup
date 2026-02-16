@@ -1,5 +1,5 @@
 const About = () => {
-  return <div>Sobre o SetupTech</div>
-}
+  return <div>Sobre o GearSetup</div>;
+};
 
-export default About
+export default About;
