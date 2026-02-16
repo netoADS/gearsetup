@@ -1,16 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <!-- Home -->
   <url>
-    <loc>https://setuptech.vercel.app/</loc>
+    <loc>https://gearsetup.vercel.app/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Categorias -->
+  <url>
+    <loc>https://gearsetup.vercel.app/category/audio</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://setuptech.vercel.app/ranking/melhores-teclados-gamer</loc>
+    <loc>https://gearsetup.vercel.app/category/perifericos</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://setuptech.vercel.app/product/teclado-mecanico-rgb-pro</loc>
+    <loc>https://gearsetup.vercel.app/category/iluminacao</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
+
+  <url>
+    <loc>https://gearsetup.vercel.app/category/monitores</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Produtos -->
+  <!-- Adicione aqui cada slug real do seu products.ts -->
+  <!-- Exemplo: -->
+  <!--
+  <url>
+    <loc>https://gearsetup.vercel.app/product/slug-do-produto</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  -->
 
 </urlset>
