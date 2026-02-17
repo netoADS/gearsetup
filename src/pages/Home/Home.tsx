@@ -45,15 +45,15 @@ const Home = () => {
 
               <h3 className="font-semibold mb-2">{product.title}</h3>
 
-              <p className="text-primary font-bold mb-2">
+              {/* <p className="text-primary font-bold mb-2">
                 {product.price.toLocaleString("pt-BR", {
                   style: "currency",
                   currency: "BRL",
                 })}
-              </p>
+              </p> */}
 
               {/* ⭐ Rating */}
-              <StarRating rating={product.rating} reviews={product.reviews} />
+              {/* <StarRating rating={product.rating} reviews={product.reviews} /> */}
             </Link>
           ))}
         </div>

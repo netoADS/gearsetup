@@ -5,6 +5,18 @@ export interface Product {
   category: string;
   image: string;
   description: string;
+  featured: boolean;
+  features: string[];
+  affiliateLink: string;
+}
+
+/* export interface Product {
+  id: number;
+  title: string;
+  slug: string;
+  category: string;
+  image: string;
+  description: string;
   features: string[];
   affiliateLink: string;
   price: number;
@@ -13,3 +25,4 @@ export interface Product {
   rating?: number;
   reviews?: number;
 }
+ */
